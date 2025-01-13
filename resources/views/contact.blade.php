@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:heading>
-Contact Page
+        Contact Page
     </x-slot:heading>
     <h2>
         Contact Us Today
